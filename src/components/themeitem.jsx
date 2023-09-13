@@ -6,4 +6,4 @@ const ThemeItem = ( {color , img , changeColor } ) => {
   
 }
 
-export default ThemeItem;
+export default ThemeItem ;
